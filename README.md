@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Chaubey</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack Developer | React Native Developer | React.js | Node.js | Express.js | MongoDB
+🚀 Full Stack Developer | MERN Stack | React Native | React.js | Node.js | Express.js | MongoDB
 </h3>
 
 <p align="center">
