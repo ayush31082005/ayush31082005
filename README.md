@@ -12,12 +12,12 @@
 
 # 💻 About Me
 
-- 🚀 Full Stack Developer with **6+ months** of professional experience.
-- 💻 Building scalable web applications using **React.js, Node.js, Express.js & MongoDB**.
-- 📱 Currently learning **Flutter & React Native**.
-- 🔐 Experienced with **JWT Authentication & REST APIs**.
-- ☁️ Hands-on experience with **VPS, Nginx, PM2, Vercel & Render**.
-- 🌱 Passionate about learning new technologies and solving real-world problems.
+- 🚀 Professional Full Stack Developer passionate about building scalable web applications.
+- 💻 Specialized in React.js, Node.js, Express.js & MongoDB.
+- 📱 Exploring React Native and modern web technologies.
+- 🔐 Skilled in Authentication, REST APIs and Backend Development.
+- ☁️ Experienced in VPS, Cloud Deployment, Nginx, PM2, Vercel & Render.
+- 🌱 Continuous learner with a passion for clean code and problem solving.
 - 💼 Open to Full Stack Developer opportunities.
 
 ---
