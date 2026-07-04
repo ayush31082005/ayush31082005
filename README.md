@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Ayush Chaubey</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack Developer | React.js | Node.js | Express.js | MongoDB
+🚀 Full Stack Developer | MERN Stack Developer | React Native Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies;Open+to+Work+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;React+Native+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+%26+Mobile+Applications;Always+Learning+New+Technologies;Open+to+Work+🚀"/>
 </p>
 
 ---
 
 # 💻 About Me
 
-- 🚀 Professional Full Stack Developer passionate about building scalable web applications.
-- 💻 Specialized in React.js, Node.js, Express.js & MongoDB.
-- 📱 Exploring React Native and modern web technologies.
-- 🔐 Skilled in Authentication, REST APIs and Backend Development.
-- ☁️ Experienced in VPS, Cloud Deployment, Nginx, PM2, Vercel & Render.
-- 🌱 Continuous learner with a passion for clean code and problem solving.
-- 💼 Open to Full Stack Developer opportunities.
+- 🚀 Professional Full Stack & React Native Developer passionate about building scalable web and mobile applications.
+- 💻 Specialized in React.js, React Native, Node.js, Express.js & MongoDB.
+- 🔐 Skilled in JWT Authentication, REST APIs, Backend Development & Database Design.
+- ☁️ Experienced in VPS, Hostinger, Cloud Deployment, Nginx, PM2, Vercel & Render.
+- 📱 Passionate about building cross-platform mobile applications using React Native.
+- 🌱 Continuous learner with a passion for clean code and solving real-world problems.
+- 🤝 Open to Full Stack & React Native Developer opportunities.
 
 ---
 
@@ -70,7 +70,6 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
@@ -88,6 +87,7 @@
 
 </p>
 
+---
 
 <h3 align="center">
 
