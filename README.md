@@ -1,3 +1,51 @@
+<h1 align="center">Hi 👋, I'm Ayush Chaubey</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack Developer | React.js | Node.js | Express.js | MongoDB
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies;Open+to+Work+🚀"/>
+</p>
+
+---
+
+# 💻 About Me
+
+- 🚀 Full Stack Developer with **6+ months** of professional experience.
+- 💻 Building scalable web applications using **React.js, Node.js, Express.js & MongoDB**.
+- 📱 Currently learning **Flutter & React Native**.
+- 🔐 Experienced with **JWT Authentication & REST APIs**.
+- ☁️ Hands-on experience with **VPS, Nginx, PM2, Vercel & Render**.
+- 🌱 Passionate about learning new technologies and solving real-world problems.
+- 💼 Open to Full Stack Developer opportunities.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ayush-chaubey-37237a39b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ayushchaubey19768@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://ayush-chaubey-portfolio-ebon.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ayush31082005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 # 💻 Tech Stack
 
 <p align="left">
@@ -39,3 +87,10 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </p>
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
