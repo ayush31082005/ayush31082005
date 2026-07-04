@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayush Chaubey
 
-<!--
-**ayush31082005/ayush31082005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+- 🚀 Full Stack Developer (MERN Stack)
+- 💼 6+ months of professional experience
+- 🌱 Learning Flutter & React Native
+- 💡 Passionate about scalable web applications
+- 📫 Open to Full Stack Developer opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,nextjs,git,github,vscode,postman" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-chaubey-37237a39b)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://ayush-chaubey-portfolio-ebon.vercel.app)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:ayushchaubey19768@gmail.com)
