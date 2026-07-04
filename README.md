@@ -12,17 +12,17 @@
 
 # 💻 About Me
 
-- 💼 Full Stack Developer with **6+ months** of professional experience
-- 🚀 Experienced in **React.js, Node.js, Express.js, MongoDB**
-- 📱 Currently learning **Flutter & React Native**
-- 🌐 Skilled in building scalable and responsive web applications
-- 🔐 Strong knowledge of Authentication, JWT & REST APIs
-- ☁️ Experience with VPS, Nginx, PM2, Vercel & Render Deployment
-- 🤝 Open to Full Stack Developer Opportunities
+- 🚀 Full Stack Developer with 6+ months of professional experience.
+- 💻 Building scalable web applications using React.js, Node.js, Express.js & MongoDB.
+- 📱 Currently learning Flutter & React Native.
+- 🔐 Experienced with JWT Authentication & REST APIs.
+- ☁️ Hands-on experience with VPS, Nginx, PM2, Vercel & Render.
+- 🌱 Passionate about learning new technologies and solving real-world problems.
+- 💼 Open to Full Stack Developer opportunities.
 
 ---
 
-# 🌐 Socials
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -48,13 +48,11 @@
 
 # 💻 Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,flutter,java,javascript,typescript,html,css,tailwind,git,github,vscode,postman,firebase,npm,vite,redux"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,flutter,java,git,github,vscode,postman,firebase,npm,vite,redux" />
 </p>
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_API-blue?style=for-the-badge"/>
@@ -68,41 +66,13 @@
 
 ---
 
-# 🚀 Featured Projects
+# 📚 Currently Learning
 
-## 🔹 Sanyukt Parivar Rich Life (MLM Platform)
-
-✔ Referral System
-
-✔ Income Management
-
-✔ Wallet
-
-✔ Authentication
-
-✔ Admin Dashboard
-
-✔ VPS Deployment
-
----
-
-## 🔹 Guru Nanak Pharmacy
-
-✔ Pharmacy Management
-
-✔ User Authentication
-
-✔ Dashboard
-
-✔ Responsive UI
-
----
-
-## 🔹 Personal Portfolio
-
-🌐 Live Demo
-
-https://ayush-chaubey-portfolio-ebon.vercel.app
+- 📱 Flutter
+- ⚛️ React Native
+- 🏗️ System Design
+- ☁️ Cloud Deployment
+- 🧠 Data Structures & Algorithms
 
 ---
 
@@ -110,25 +80,15 @@ https://ayush-chaubey-portfolio-ebon.vercel.app
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush31082005&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush31082005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush31082005&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush31082005&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush31082005&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayush31082005&theme=algolia&margin-w=15"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush31082005&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -138,7 +98,7 @@ https://ayush-chaubey-portfolio-ebon.vercel.app
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush31082005&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush31082005&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -148,7 +108,7 @@ https://ayush-chaubey-portfolio-ebon.vercel.app
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ayush31082005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ayush31082005&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -156,10 +116,16 @@ https://ayush-chaubey-portfolio-ebon.vercel.app
 
 # 💬 Quote
 
-> **"Code. Learn. Build. Repeat." 🚀**
+<p align="center">
+
+### 💡 *"First, solve the problem. Then, write the code."*
+
+</p>
 
 ---
 
 <h3 align="center">
+
 ⭐ Thanks for visiting my profile ⭐
+
 </h3>
