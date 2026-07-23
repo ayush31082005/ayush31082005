@@ -94,35 +94,6 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush31082005&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush31082005&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush31082005&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayush31082005&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 📊 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ayush31082005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
 <h3 align="center">
 
 ⭐ Thanks for visiting my profile ⭐
