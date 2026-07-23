@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Ayush Chaubey</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack | React Native | React.js | Node.js | Express.js | MongoDB
+🚀 Full Stack Developer | Flutter Developer | MERN Stack | React Native | React.js | Node.js | Express.js | MongoDB
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;React+Native+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+%26+Mobile+Applications;Always+Learning+New+Technologies;Open+to+Work+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Flutter+Developer;MERN+Stack+Developer;React+Native+Developer;React.js+%7C+Flutter+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+%26+Mobile+Applications;Always+Learning+New+Technologies;Open+to+Work+🚀"/>
 </p>
 
 ---
 
 # 💻 About Me
 
-- 🚀 Professional Full Stack & React Native Developer passionate about building scalable web and mobile applications.
-- 💻 Specialized in React.js, React Native, Node.js, Express.js & MongoDB.
+- 🚀 Professional Full Stack, Flutter & React Native Developer passionate about building scalable web and mobile applications.
+- 💻 Specialized in Flutter, Dart, React.js, React Native, Node.js, Express.js & MongoDB.
 - 🔐 Skilled in JWT Authentication, REST APIs, Backend Development & Database Design.
 - ☁️ Experienced in VPS, Hostinger, Cloud Deployment, Nginx, PM2, Vercel & Render.
-- 📱 Passionate about building cross-platform mobile applications using React Native.
+- 📱 Passionate about building high-performance cross-platform mobile applications using Flutter & React Native.
 - 🌱 Continuous learner with a passion for clean code and solving real-world problems.
-- 🤝 Open to Full Stack & React Native Developer opportunities.
+- 🤝 Open to Full Stack, Flutter & React Native Developer opportunities.
 
 ---
 
@@ -54,6 +54,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -84,7 +87,38 @@
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush31082005&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush31082005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush31082005&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ayush31082005&theme=algolia&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 📊 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ayush31082005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
